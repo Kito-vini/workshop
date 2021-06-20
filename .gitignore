@@ -1,21 +1,21 @@
-backend/venv/*.*
+/venv/*.*
 .vscode
-ediaristas_workshop/ediaristas_workshop/*.*
+
 
 # dependencies
-ediaristas/node_modules
-ediaristas/.pnp
+/node_modules
+/.pnp
 .pnp.js
 
 # testing
-ediaristas/coverage
+/coverage
 
 # next.js
-ediaristas/.next/
-ediaristas/out/
+/.next/
+/out/
 
 # production
-ediaristas/build
+/build
 
 # misc
 .DS_Store
