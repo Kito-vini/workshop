@@ -1,0 +1,36 @@
+backend/venv/*.*
+.vscode
+ediaristas_workshop/ediaristas_workshop/*.*
+
+# dependencies
+ediaristas/node_modules
+ediaristas/.pnp
+.pnp.js
+
+# testing
+ediaristas/coverage
+
+# next.js
+ediaristas/.next/
+ediaristas/out/
+
+# production
+ediaristas/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# vercel
+.vercel
