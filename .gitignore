@@ -1,7 +1,8 @@
 backend/venv/
 backend/ediaristas_workshop/ediaristas_workshop
 .vscode
-
+ediaristas/.next/
+ediaristas/node_modules/
 
 # dependencies
 /node_modules
