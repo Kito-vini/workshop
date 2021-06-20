@@ -1,4 +1,5 @@
-/venv/*.*
+backend/venv/
+backend/ediaristas_workshop/ediaristas_workshop
 .vscode
 
 

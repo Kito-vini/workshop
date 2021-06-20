@@ -1,9 +1,0 @@
-#ambiente virtual
-venv/*
-
-#ambiente vscode
-.vscode/*
-
-#Pasta do projeto
-ediaristas_workshop/*
-
