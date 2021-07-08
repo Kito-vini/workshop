@@ -5,6 +5,9 @@
     <title>Title</title>
   </head>
   <body>
-    {{form_diarista.as_p}}
+    <form method="POST" enctype="multipart/form-data">
+      {% csrf_token %} {{form_diarista.as_p}}
+      <button type="submit">Cadastrar</button>
+    </form>
   </body>
 </html>
